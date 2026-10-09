@@ -7,8 +7,8 @@
 </head>
 <body>
     <?php
-        echo "JURO"
-        print("Štefan")
+        echo "JURO";
+        print("Štefan");
     ?>
     <p> PEDER </p>
 </body>
