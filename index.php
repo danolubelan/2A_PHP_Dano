@@ -7,8 +7,10 @@
 </head>
 <body>
     <?php
-        echo "JURO";
-        print("Štefan");
+    // Vytvorenie premennej a definovanie hodnoty
+    $premenna = "text";
+    $meno = "Dano";
+    echo "Ahoj moje meno je " . $meno;
     ?>
     <p> PEDER </p>
 </body>
